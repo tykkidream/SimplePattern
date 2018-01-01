@@ -1,9 +1,9 @@
-package simple.pattern.timewheel.util;
+package com.tykkidream.pattern.timewheel.util;
 
-import simple.pattern.timewheel.TimeExpiredHandler;
-import simple.pattern.timewheel.TimeScheduler;
-import simple.pattern.timewheel.TimeTask;
-import simple.pattern.timewheel.TimeWheel;
+import com.tykkidream.pattern.timewheel.TimeExpiredHandler;
+import com.tykkidream.pattern.timewheel.TimeScheduler;
+import com.tykkidream.pattern.timewheel.TimeTask;
+import com.tykkidream.pattern.timewheel.TimeWheel;
 
 /**
  * Created by Saber on 2017/4/16.

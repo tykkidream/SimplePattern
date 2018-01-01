@@ -1,6 +1,6 @@
-package simple.pattern.timewheel.util;
+package com.tykkidream.pattern.timewheel.util;
 
-import simple.pattern.timewheel.TimeWheel;
+import com.tykkidream.pattern.timewheel.TimeWheel;
 
 /**
  * Created by Saber on 2017/4/16.

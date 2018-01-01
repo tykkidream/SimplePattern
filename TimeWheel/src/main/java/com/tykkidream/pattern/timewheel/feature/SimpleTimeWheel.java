@@ -1,8 +1,8 @@
-package simple.pattern.timewheel.feature;
+package com.tykkidream.pattern.timewheel.feature;
 
-import simple.pattern.timewheel.TimeScheduler;
-import simple.pattern.timewheel.TimeSlot;
-import simple.pattern.timewheel.TimeTask;
+import com.tykkidream.pattern.timewheel.TimeScheduler;
+import com.tykkidream.pattern.timewheel.TimeSlot;
+import com.tykkidream.pattern.timewheel.TimeTask;
 
 import java.util.ArrayList;
 import java.util.Collections;

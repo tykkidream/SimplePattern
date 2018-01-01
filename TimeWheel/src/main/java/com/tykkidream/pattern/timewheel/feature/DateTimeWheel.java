@@ -1,7 +1,7 @@
-package simple.pattern.timewheel.feature;
+package com.tykkidream.pattern.timewheel.feature;
 
 
-import simple.pattern.timewheel.TimeWheel;
+import com.tykkidream.pattern.timewheel.TimeWheel;
 
 import java.util.Timer;
 import java.util.TimerTask;

@@ -1,4 +1,4 @@
-package simple.pattern.timewheel;
+package com.tykkidream.pattern.timewheel;
 
 /**
  * Created by Saber on 2017/4/14.

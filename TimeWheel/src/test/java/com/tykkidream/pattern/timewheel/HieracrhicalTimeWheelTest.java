@@ -1,7 +1,7 @@
-package simple.pattern.timewheel;
+package com.tykkidream.pattern.timewheel;
 
-import simple.pattern.timewheel.feature.HierarchicalTimeWheel;
-import simple.pattern.timewheel.feature.MillisecondTimeWheel;
+import com.tykkidream.pattern.timewheel.feature.MillisecondTimeWheel;
+import com.tykkidream.pattern.timewheel.feature.HierarchicalTimeWheel;
 import org.junit.Test;
 
 import java.io.IOException;
